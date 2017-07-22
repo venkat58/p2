@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/myPrimaryColor</color>
+    <color name="colorPrimaryDark">@color/myPrimaryDarkColor</color>
+    <color name="colorAccent">@color/white</color>
+
+
+    <!-- D32F2F -->
+    <color name="myAccentColor">#03A9F4</color>
+    <color name="myDrawerBackground">#ffffff</color>
+    <color name="myPrimaryColor">#0277bd</color>
+    <color name="myPrimaryDarkColor">#01579b</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- F2F2F2 -->
+    <color name="myWindowBackground">#FFFFFF</color>
+    <color name="myTextPrimaryColor">#212121</color>
+    <color name="myNavigationColor">#BBDEFB</color>
+    <color name="selected_gray">#ffdbdbdb</color>
+    <color name="descriptionsText">#757575</color>
+    <color name="shadow">#555555</color>
+    <color name="title">#777777</color>
+    <color name="under_line">#b3e5fc</color>
+    <color name="buttonColor">#1976D2</color>
+    <color name="buttonNoActionColor">#BBDEFB</color>
+    <color name="text_color_black">#ff000000</color>
+    <color name="semi_transparent">#55000000</color>
+    <color name="title_textcolor">#00BCD4</color>
+    <color name="buttonred">#ff3333</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

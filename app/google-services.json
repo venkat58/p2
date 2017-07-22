@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "815123106256",
+    "firebase_url": "https://all-in-one-shopping-and-social.firebaseio.com",
+    "project_id": "all-in-one-shopping-and-social",
+    "storage_bucket": "all-in-one-shopping-and-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815123106256:android:0bdb05f28d28da6d",
+        "android_client_info": {
+          "package_name": "apps.awesome.vv.com.vvsimpleaio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815123106256-io42hcok1vbo31uh7f1qsld7jt52fu33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.awesome.vv.com.vvsimpleaio",
+            "certificate_hash": "3fbe2ef40ca420c87a85d47c237b9fdce4adcdd9"
+          }
+        },
+        {
+          "client_id": "815123106256-q5fhp7uufnd439gh5hf1q2cir1lgp6gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZuSnpyhxhW8zSW4XfhUsHwKEJAvEczps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815123106256-q5fhp7uufnd439gh5hf1q2cir1lgp6gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

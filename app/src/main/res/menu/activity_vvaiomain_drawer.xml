@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cnn"
+            android:title="CNN" />
+        <item
+            android:id="@+id/sky"
+            android:title="Sky News" />
+        <item
+            android:id="@+id/indiaToday"
+            android:title="India Today" />
+        <item  android:id="@+id/n18"
+            android:title="News 18" />
+        <item
+            android:id="@+id/tv9t"
+            android:title="TV9 Telugu" />
+        <item
+            android:id="@+id/tv9m"
+            android:title="TV9 Marathi" />
+    </group>
+
+    <item android:title="News Paper">
+        <menu>
+            <item
+                android:id="@+id/toi"
+                android:title="Times of India" />
+            <item
+                android:id="@+id/indianExpress"
+                android:title="Indian Express" />
+        </menu>
+    </item>
+
+</menu>

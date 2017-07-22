@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">All In One App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_network_avl">Network not available</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_vvmain_web_view">All In One App</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2638413549618330/5874564409</string>
+    <string name="interstitial_id">ca-app-pub-2638413549618330/8849880403</string>
+    <string name="ads_id">ca-app-pub-2638413549618330~9386434007</string>
+    <string name="msg_token_fmt" translatable="false"></string>
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
